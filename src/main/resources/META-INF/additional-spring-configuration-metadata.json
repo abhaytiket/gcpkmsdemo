@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "tink.gcpkms.credentials.file",
+    "type": "java.lang.String",
+    "description": "GCP KMS credential file"
+  },
+  {
+    "name": "tink.gcpkms.kek.uri",
+    "type": "java.lang.String",
+    "description": "GCP KMS kek uri"
+  },
+  {
+    "name": "tink.gcpkms.keyfile",
+    "type": "java.lang.String",
+    "description": "GCP KMS key filename"
+  }
+]}
