@@ -8,8 +8,11 @@ Once the keyset and credential files are placed in `resources` folder and proper
 1. [vscode](https://code.visualstudio.com/)
 2. [docker](https://www.docker.com/)
 3. vscode dev container extension
+4. [postman](https://www.postman.com/)
 
 Once the prerequisites are installed then open project folder in vscode. There you will find a notification to reopen folder in a container. Just click on the button in the notification and you will be all set in a few minutes to run your application inside the container.
 
 ![screenshot](./blob/remotecontainer.png)
+
+You can use the collection in folder `postman` and import it on your postman client to run tests and use APIs.
 
