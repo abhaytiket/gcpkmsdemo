@@ -41,6 +41,11 @@
 			<artifactId>tink-gcpkms</artifactId>
 			<version>1.6.1</version>
 		</dependency>
+		<dependency>
+			<groupId>com.google.api-client</groupId>
+			<artifactId>google-api-client-jackson2</artifactId>
+			<version>1.20.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
